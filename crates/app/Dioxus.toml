@@ -1,0 +1,8 @@
+[application]
+name = "frekussion"
+
+[web.app]
+title = "Frekussion FK-2 · FM Percussion Synthesizer"
+
+[web.watcher]
+watch_path = ["src", "assets", "../dsp/src", "../worklet/src"]

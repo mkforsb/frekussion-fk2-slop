@@ -1,0 +1,8 @@
+[package]
+name = "frekussion-dsp"
+description = "DSP engine for a dual four-operator FM percussion synthesizer"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
